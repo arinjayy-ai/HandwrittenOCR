@@ -1,0 +1,30 @@
+# Deep Learning
+torch>=2.2.0
+torchvision>=0.17.0
+torchaudio>=2.2.0
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python>=4.10.0
+
+# Numerical Computing
+numpy>=1.26.0
+
+# Data Processing
+pandas>=2.2.0
+scikit-learn>=1.5.0
+
+# Progress Bar
+tqdm>=4.66.0
+
+# OCR Evaluation
+jiwer>=3.0.5
+
+# Visualization
+matplotlib>=3.9.0
+
+# Web Application
+streamlit>=1.37.0
+
+# Utilities
+PyYAML>=6.0.2
